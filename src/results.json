@@ -1,0 +1,117 @@
+{
+  "results": [
+    {
+      "mbti": "estp",
+      "name": "망고 푸딩",
+      "subHead": "활동적이고 자유를 즐기는 망고 푸딩",
+      "description": "노는 것을 좋아하고 ~...",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "estj",
+      "name": "바나나 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "esfp",
+      "name": "패션후르츠 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "esfj",
+      "name": "황치즈 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "entp",
+      "name": "라즈베리 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "entj",
+      "name": "커피 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "enfp",
+      "name": "오렌지 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "enfj",
+      "name": "복숭아 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "istp",
+      "name": "우유 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "istj",
+      "name": "커스터드 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "isfp",
+      "name": "딸기 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "isfj",
+      "name": "초코 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "intp",
+      "name": "말차 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "intj",
+      "name": "카라멜 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "infp",
+      "name": "블루베리 푸딩",
+      "description": "",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    },
+    {
+      "mbti": "infj",
+      "name": "요거트 푸딩",
+      "description": "infj 관련 설명",
+      "goodwith": ["황치즈 푸딩", "바나나 푸딩"],
+      "badwith": ["블루베리 푸딩, 오렌지 푸딩"]
+    }
+  ]
+}
